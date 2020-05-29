@@ -1,5 +1,5 @@
 import os
-print("You have to manually add templates folder in settings.py > dir = os.path.join(BASE_DIR , 'templates')")
+print("You have to manually add templates folder in settings.py > dir = [os.path.join(BASE_DIR , 'templates')]")
 projectName = input('Enter the project  name:- ')
 appName =input('Enter the app name:- ')
 pathName = input('Enter the path name:- ')
